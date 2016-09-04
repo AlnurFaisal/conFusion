@@ -1,0 +1,22 @@
+{
+  "name": "conFusion",
+  "description": "Full Stack Web Development - Module 2: Front End Web UI Framework and Tools",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Alnur Faisal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
